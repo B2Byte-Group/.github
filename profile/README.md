@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="b2byte banner" width="100%" />
+  <img src="../assets/banner.gif" alt="b2byte banner" width="100%" />
 </p>
 
 <h1 align="center">b2byte</h1>
